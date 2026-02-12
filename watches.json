@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "casio-a158",
+    "name": "Casio A158",
+    "brand": "Casio",
+    "price": "$35",
+    "image": "photos/watches/Casio/casio a158 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio a158 1.png",
+      "photos/watches/Casio/casio a158 2.png",
+      "photos/watches/Casio/casio a158 3.jpg"
+    ],
+    "description": "Classic digital watch with stainless steel bracelet and timeless retro styling.",
+    "longDescription": "An iconic retro digital from Casio’s Vintage line, the A158 keeps things simple, legible, and ultra-wearable for daily use.",
+    "specs": {
+      "caseSize": "36.8 x 33.2 mm",
+      "caseThickness": "8.2 mm",
+      "lugWidth": "TBD",
+      "caseMaterial": "Resin / chrome plated",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Resin glass",
+      "movement": "Quartz (digital)",
+      "powerReserve": "Approx. 7 years (CR2016)",
+      "waterResistance": "Water resistant (daily use)",
+      "weight": "46 g",
+      "madeIn": "TBD"
+    },
+    "features": [
+      "1/100-second stopwatch",
+      "LED light",
+      "Daily alarm + hourly time signal",
+      "Auto-calendar"
+    ],
+    "affiliateUrl": ""
+  },
+  {
+    "id": "casio-ae1200",
+    "name": "Casio AE1200 World Time",
+    "brand": "Casio",
+    "price": "$45",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio ae1200 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio ae1200 1.png",
+      "photos/watches/Casio/casio ae1200 2.png",
+      "photos/watches/Casio/casio ae1200 3.jpg"
+    ],
+    "description": "World time digital watch with retro style.",
+    "longDescription": "The Casio AE-1200WH is perfect for travelers with its world time feature covering 48 cities. It also includes a stopwatch, countdown timer, and LED backlight, wrapped in a sleek retro-modern design.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Acrylic",
+      "movement": "Quartz digital",
+      "powerReserve": "~10 years battery",
+      "waterResistance": "100 m",
+      "weight": "~50 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "world time",
+      "LED backlight",
+      "stopwatch",
+      "countdown timer"
+    ]
+  },
+  {
+    "id": "citizen-promaster-dive",
+    "name": "Citizen Promaster Dive Eco-Drive",
+    "brand": "Citizen",
+    "price": "$200",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/citizen promaster eco drive1 .png",
+    "gallery": [
+      "photos/watches/Citizen/citizen promaster eco drive1 .png",
+      "photos/watches/Citizen/citizen promaster eco drive 2.png",
+      "photos/watches/Citizen/citizen promaster eco drive 3.png"
+    ],
+    "reference": "BN0190-82E",
+    "description": "Professional ISO-rated dive watch powered by light.",
+    "longDescription": "The Citizen Promaster Dive Eco-Drive BN0190-82E is a rugged ISO-certified diver designed for serious underwater use. Featuring a stainless steel bracelet, luminous hands and markers, and a unidirectional rotating bezel, it delivers reliability and legibility in demanding conditions. Powered by Eco-Drive technology, it never requires a battery change.",
+    "specs": {
+      "caseSize": "44 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz (Caliber E168)",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "200 m (ISO diver)",
+      "weight": "~180 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "ISO certified diver",
+      "solar powered",
+      "rotating bezel"
+    ]
+  },
+  {
+    "id": "citizen-crystal-7",
+    "name": "Citizen Crystal 7",
+    "brand": "Citizen",
+    "price": "$180",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/citizen crystal 7 1.jpg",
+    "gallery": [
+      "photos/watches/Citizen/citizen crystal 7 1.jpg",
+      "photos/watches/Citizen/citizen crystal 7 3.jpg"
+    ],
+    "reference": "4-520221Y",
+    "description": "Vintage-inspired automatic watch from Citizen's heritage line.",
+    "longDescription": "The Citizen Crystal 7 (Ref. 4-520221Y) is a classic 1960s automatic timepiece known for its reliable mechanical movement and distinctive day-date display. As one of Citizen's early automatic models, it represents the brand's vintage innovation and timeless styling.",
+    "specs": {
+      "caseSize": "37 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "18 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Acrylic",
+      "movement": "Automatic mechanical",
+      "powerReserve": "~40 hours",
+      "waterResistance": "30 m",
+      "weight": "~90 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "vintage automatic",
+      "day-date display",
+      "heritage design"
+    ]
+  },
+  {
+    "id": "seiko-srph87",
+    "name": "Seiko SRPH87",
+    "brand": "Seiko",
+    "price": "$280",
+    "affiliateUrl": "",
+    "image": "photos/watches/Seiko/seiko srph87 1.png",
+    "gallery": [
+      "photos/watches/Seiko/seiko srph87 1.png",
+      "photos/watches/Seiko/seiko srph87 2.png"
+    ],
+    "description": "Sporty Seiko 5 with bold dial and modern styling.",
+    "longDescription": "The Seiko SRPH87 offers a contemporary design with strong legibility and reliable automatic performance. It’s built for daily use with solid water resistance and a comfortable bracelet.",
+    "specs": {
+      "caseSize": "42.5 mm",
+      "caseThickness": "13.4 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "100 m",
+      "weight": "~155 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "automatic movement",
+      "sporty design",
+      "luminous hands"
+    ]
+  },
+  {
+    "id": "casio-f-91w",
+    "name": "Casio F-91W",
+    "brand": "Casio",
+    "price": "$20",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio f 91w 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio f 91w 1.png",
+      "photos/watches/Casio/casio f 91w 3.jpg",
+      "photos/watches/Casio/casio f91 w 2.png"
+    ],
+    "description": "Iconic digital watch loved worldwide for simplicity and reliability.",
+    "longDescription": "The Casio F-91W is a legendary digital watch that’s been a favorite for decades. Lightweight and durable, it features a stopwatch, alarm, and LED backlight. Its minimalistic design makes it perfect for everyday use while maintaining classic charm.",
+    "specs": {
+      "caseSize": "33 mm",
+      "caseThickness": "8 mm",
+      "lugWidth": "18 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Acrylic",
+      "movement": "Quartz digital",
+      "powerReserve": "~7 years battery",
+      "waterResistance": "30 m",
+      "weight": "~21 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "digital display",
+      "alarm",
+      "stopwatch",
+      "LED backlight"
+    ]
+  },
+  {
+    "id": "casio-illuminator-ae-1500wh",
+    "name": "Casio Illuminator AE-1500WH",
+    "brand": "Casio",
+    "price": "$25",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio ae  1500 2.png",
+    "gallery": [
+      "photos/watches/Casio/casio ae  1500 2.png",
+      "photos/watches/Casio/casio ae1500 1.png"
+    ],
+    "description": "Multi-function digital watch with rugged styling.",
+    "longDescription": "The AE-1500WH has a large, easy-to-read display and multiple functions including world time, stopwatch, countdown timer, and daily alarms. Its oversized case gives it a bold presence.",
+    "specs": {
+      "caseSize": "51 mm",
+      "caseThickness": "14 mm",
+      "lugWidth": "24 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Acrylic",
+      "movement": "Quartz digital",
+      "powerReserve": "~10 years battery",
+      "waterResistance": "100 m",
+      "weight": "~67 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "world time",
+      "alarm",
+      "stopwatch",
+      "countdown timer",
+      "oversized case"
+    ]
+  },
+  {
+    "id": "casio-pro-trek-prg-270-1",
+    "name": "Casio Pro Trek PRG-270-1",
+    "brand": "Casio",
+    "price": "$170",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/Casio Pro Trek PRG-270-1 1.png",
+    "gallery": [
+      "photos/watches/Casio/Casio Pro Trek PRG-270-1 1.png",
+      "photos/watches/Casio/Casio Pro Trek PRG-270-1 2.png"
+    ],
+    "description": "Outdoor-focused digital watch with sensors.",
+    "longDescription": "The Casio Pro Trek PRG-270 is made for adventurers. Features include triple sensors (altimeter, barometer, compass), 200m water resistance, solar power, and a durable construction suitable for extreme conditions.",
+    "specs": {
+      "caseSize": "52 mm",
+      "caseThickness": "14 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Mineral glass",
+      "movement": "Quartz solar",
+      "powerReserve": "Solar rechargeable",
+      "waterResistance": "200 m",
+      "weight": "~71 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "triple sensor",
+      "solar power",
+      "200m water resistance",
+      "shock resistant"
+    ]
+  },
+  {
+    "id": "casio-edifice-chronograph-efv-100d",
+    "name": "Casio Edifice Chronograph EFV-100D",
+    "brand": "Casio",
+    "price": "$130",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/Casio Edifice Chronograph EFV-100D 1.png",
+    "gallery": [
+      "photos/watches/Casio/Casio Edifice Chronograph EFV-100D 1.png",
+      "photos/watches/Casio/Casio Edifice Chronograph EFV-100D 2 .png"
+    ],
+    "description": "Sporty analog chronograph with metal case.",
+    "longDescription": "Casio Edifice chronographs combine precision with a sporty design. Features include stopwatch functionality, multiple subdials, and stainless-steel case and bracelet for a premium look and durability.",
+    "specs": {
+      "caseSize": "45 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral glass",
+      "movement": "Quartz",
+      "powerReserve": "~3 years battery",
+      "waterResistance": "100 m",
+      "weight": "~150 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "chronograph",
+      "stainless steel",
+      "sporty design",
+      "multiple subdials"
+    ]
+  },
+  {
+    "id": "casio-mq24-classic-quartz",
+    "name": "Casio MQ24 Classic Quartz",
+    "brand": "Casio",
+    "price": "$18",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio mq24 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio mq24 1.png",
+      "photos/watches/Casio/casio mq24 w.jpg"
+    ],
+    "description": "Simple and lightweight quartz analog watch.",
+    "longDescription": "The Casio MQ24 is a minimalist, ultra-lightweight watch. Perfect for everyday use with a clean analog display and resin strap for comfort and durability.",
+    "specs": {
+      "caseSize": "35 mm",
+      "caseThickness": "8 mm",
+      "lugWidth": "18 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Acrylic",
+      "movement": "Quartz",
+      "powerReserve": "~3 years battery",
+      "waterResistance": "30 m",
+      "weight": "~20 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "lightweight",
+      "minimalist",
+      "resin strap",
+      "everyday wear"
+    ]
+  },
+  {
+    "id": "casio-duro-mdv106-1av",
+    "name": "Casio Duro MDV106-1AV",
+    "brand": "Casio",
+    "price": "$60",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio duro mdv106-1av 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio duro mdv106-1av 1.png",
+      "photos/watches/Casio/casio duro mdv106-1av 2.png"
+    ],
+    "description": "Affordable dive watch with professional features.",
+    "longDescription": "The Casio Duro MDV-106 combines a stainless steel case, 200m water resistance, and screw-down crown to deliver a robust, affordable dive watch that’s suitable for both work and play.",
+    "specs": {
+      "caseSize": "44 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Resin",
+      "crystal": "Mineral glass",
+      "movement": "Quartz",
+      "powerReserve": "~3 years battery",
+      "waterResistance": "200 m",
+      "weight": "~92 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "200m water resistance",
+      "screw-down crown",
+      "unidirectional bezel"
+    ]
+  },
+  {
+    "id": "casio-g-shock-g-5600",
+    "name": "Casio G-Shock G-5600",
+    "brand": "Casio",
+    "price": "$100",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio g shock g 5600 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio g shock g 5600 1.png",
+      "photos/watches/Casio/casio g shock g 5600 2.png",
+      "photos/watches/Casio/casio g shock g 5600 3.png"
+    ],
+    "description": "Compact square G-Shock with durable construction.",
+    "longDescription": "The Casio G-Shock G5600 is a square-faced digital watch designed for toughness and reliability. Offers stopwatch, alarm, and backlight, making it a favorite among G-Shock collectors.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "13 mm",
+      "lugWidth": "16 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Mineral glass",
+      "movement": "Quartz digital",
+      "powerReserve": "~2 years battery",
+      "waterResistance": "200 m",
+      "weight": "~55 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "shock resistant",
+      "200m water resistance",
+      "digital display",
+      "backlight"
+    ]
+  },
+  {
+    "id": "casio-g-shock-gw-9400-rangeman",
+    "name": "Casio G-Shock GW-9400 Rangeman",
+    "brand": "Casio",
+    "price": "$270",
+    "affiliateUrl": "",
+    "image": "photos/watches/Casio/casio g shock gw 9400 rangeman 1.png",
+    "gallery": [
+      "photos/watches/Casio/casio g shock gw 9400 rangeman 1.png",
+      "photos/watches/Casio/casio g shock gw 9400 rangeman 2.png"
+    ],
+    "description": "Rugged G-Shock built for extreme conditions.",
+    "longDescription": "The Casio GW-9400 Rangeman is part of the Master of G series. Equipped with triple sensors (altimeter, barometer, compass), solar power, and 200m water resistance, it’s built for outdoor adventurers.",
+    "specs": {
+      "caseSize": "55 mm",
+      "caseThickness": "18 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Resin",
+      "bandMaterial": "Resin",
+      "crystal": "Mineral glass",
+      "movement": "Quartz solar",
+      "powerReserve": "Solar rechargeable",
+      "waterResistance": "200 m",
+      "weight": "~93 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "triple sensor",
+      "shock resistant",
+      "solar power",
+      "200m water resistance"
+    ]
+  },
+  {
+    "id": "seiko-5-srpd51-automatic",
+    "name": "Seiko 5 SRPD51 Automatic",
+    "brand": "Seiko",
+    "price": "$230",
+    "affiliateUrl": "",
+    "image": "photos/watches/Seiko/SRPD51K1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SRPD51K1 1.png",
+      "photos/watches/Seiko/SRPD51K1_2.jpg"
+    ],
+    "description": "Popular Seiko 5 Sports automatic with dive-style bezel.",
+    "longDescription": "The Seiko SRPD51 is one of the most popular Seiko 5 Sports models, inspired by classic dive watches. It features a reliable automatic movement and a comfortable bracelet suitable for daily wear.",
+    "specs": {
+      "caseSize": "42.5 mm",
+      "caseThickness": "13.4 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "100 m",
+      "weight": "~170 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "rotating bezel",
+      "automatic movement",
+      "sporty design"
+    ]
+  },
+  {
+    "id": "seiko-5-sports-srpd63",
+    "name": "Seiko 5 Sports SRPD63",
+    "brand": "Seiko",
+    "price": "$230",
+    "affiliateUrl": "",
+    "image": "photos/watches/Seiko/SRPD63K1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SRPD63K1 1.png",
+      "photos/watches/Seiko/SRPD63K1_2.jpg"
+    ],
+    "description": "Stealthy Seiko 5 Sports with blacked-out finish.",
+    "longDescription": "The Seiko SRPD63 features an all-black aesthetic with a rugged, modern feel. Built with Seiko’s dependable automatic movement, it’s perfect for casual and street-style wear.",
+    "specs": {
+      "caseSize": "42.5 mm",
+      "caseThickness": "13.4 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel (black coated)",
+      "bandMaterial": "Silicone",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "100 m",
+      "weight": "~150 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "blacked-out design",
+      "automatic movement",
+      "luminous markers"
+    ]
+  },
+  {
+    "id": "seiko-snk809-automatic",
+    "name": "Seiko SNK809 Automatic",
+    "brand": "Seiko",
+    "price": "$100",
+    "affiliateUrl": "",
+    "description": "Iconic military-style automatic field watch.",
+    "longDescription": "The Seiko SNK809 is a legendary field watch known for its compact size, legibility, and reliability. Its simple military-inspired design makes it a favorite among watch enthusiasts.",
+    "specs": {
+      "caseSize": "37 mm",
+      "caseThickness": "11 mm",
+      "lugWidth": "18 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Canvas",
+      "crystal": "Hardlex",
+      "movement": "Automatic (7S26)",
+      "powerReserve": "~40 hours",
+      "waterResistance": "30 m",
+      "weight": "~65 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "compact size",
+      "military style",
+      "automatic movement"
+    ],
+    "image": "photos/watches/Seiko/snk809_1.png",
+    "gallery": [
+      "photos/watches/Seiko/snk809_1.png",
+      "photos/watches/Seiko/snk809_2.png"
+    ]
+  },
+  {
+    "id": "seiko-solar-sne527p1",
+    "name": "Seiko Solar SNE527P1",
+    "brand": "Seiko",
+    "price": "$250",
+    "affiliateUrl": "",
+    "description": "Solar-powered diver-style watch with clean design.",
+    "longDescription": "The Seiko SNE527P1 uses Seiko’s solar technology for hassle-free operation. It offers excellent water resistance and a classic diver look without the need for battery changes.",
+    "specs": {
+      "caseSize": "40 mm",
+      "caseThickness": "10.6 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Sapphire",
+      "movement": "Solar quartz",
+      "powerReserve": "~10 months (solar)",
+      "waterResistance": "200 m",
+      "weight": "~150 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "solar powered",
+      "sapphire crystal",
+      "200m water resistance"
+    ],
+    "image": "photos/watches/Seiko/SNE527P1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SNE527P1 1.png",
+      "photos/watches/Seiko/sne527pi 2.webp"
+    ]
+  },
+  {
+    "id": "seiko-prospex-diver-srpd55",
+    "name": "Seiko Prospex Diver SRPD55",
+    "brand": "Seiko",
+    "price": "$400",
+    "affiliateUrl": "",
+    "image": "photos/watches/Seiko/SRPD55K1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SRPD55K1 1.png",
+      "photos/watches/Seiko/SRPD55K1_2.jpg"
+    ],
+    "description": "Prospex automatic with professional dive styling.",
+    "longDescription": "The Seiko Prospex SRPD55 delivers rugged dive-watch aesthetics with reliable automatic performance. Designed for sport and daily wear, it balances toughness and comfort.",
+    "specs": {
+      "caseSize": "42.5 mm",
+      "caseThickness": "13.4 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "200 m",
+      "weight": "~180 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "dive styling",
+      "automatic movement",
+      "screw-down crown"
+    ]
+  },
+  {
+    "id": "seiko-turtle-srpe93",
+    "name": "Seiko Turtle SRPE93",
+    "brand": "Seiko",
+    "price": "$390",
+    "affiliateUrl": "",
+    "image": "photos/watches/Seiko/SRPE93K 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SRPE93K 1.png",
+      "photos/watches/Seiko/srpe93k 2 .webp"
+    ],
+    "description": "Classic Seiko Turtle professional dive watch.",
+    "longDescription": "The Seiko Turtle SRPE93 is a modern reissue of a legendary dive watch. Its cushion case, excellent lume, and reliable automatic movement make it a true tool watch.",
+    "specs": {
+      "caseSize": "45 mm",
+      "caseThickness": "13.2 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Silicone",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "200 m",
+      "weight": "~198 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "ISO diver",
+      "cushion case",
+      "excellent lume"
+    ]
+  },
+  {
+    "id": "seiko-presage-cocktail-time",
+    "name": "Seiko Presage Cocktail Time",
+    "brand": "Seiko",
+    "price": "$425",
+    "affiliateUrl": "",
+    "image": "photos/watches/Seiko/seiko presage cocktail.png",
+    "gallery": [
+      "photos/watches/Seiko/seiko presage cocktail.png",
+      "photos/watches/Seiko/seiko presage cocktail 2 .jpg"
+    ],
+    "description": "Elegant automatic dress watch with textured dial.",
+    "longDescription": "The Seiko Presage Cocktail Time blends traditional Japanese craftsmanship with modern watchmaking. Its stunning dial and smooth automatic movement make it ideal for formal wear.",
+    "specs": {
+      "caseSize": "40.5 mm",
+      "caseThickness": "11.8 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R35)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "50 m",
+      "weight": "~75 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "textured dial",
+      "dress watch",
+      "automatic movement"
+    ]
+  },
+  {
+    "id": "seiko-coutura-solar",
+    "name": "Seiko Coutura Solar",
+    "brand": "Seiko",
+    "price": "$300",
+    "affiliateUrl": "",
+    "description": "Futuristic solar-powered chronograph.",
+    "longDescription": "The Seiko Coutura Solar features bold lines and advanced solar technology. Designed for precision and style, it’s a modern watch with zero battery maintenance.",
+    "specs": {
+      "caseSize": "44 mm",
+      "caseThickness": "11.6 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Sapphire",
+      "movement": "Solar quartz",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "100 m",
+      "weight": "~185 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "solar powered",
+      "chronograph",
+      "sapphire crystal"
+    ],
+    "image": "photos/watches/Seiko/seiko coutura solar 1.png",
+    "gallery": [
+      "photos/watches/Seiko/seiko coutura solar 1.png"
+    ]
+  },
+  {
+    "id": "seiko-5-gmt-ssk001",
+    "name": "Seiko 5 GMT SSK001",
+    "brand": "Seiko",
+    "price": "$345",
+    "affiliateUrl": "",
+    "description": "Automatic GMT watch for travelers.",
+    "longDescription": "The Seiko 5 GMT SSK001 adds true GMT functionality to the Seiko 5 lineup. Ideal for travelers, it allows tracking of multiple time zones with ease.",
+    "specs": {
+      "caseSize": "42.5 mm",
+      "caseThickness": "13.6 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Hardlex",
+      "movement": "Automatic GMT (4R34)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "100 m",
+      "weight": "~170 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "GMT function",
+      "automatic movement",
+      "rotating bezel"
+    ],
+    "image": "photos/watches/Seiko/SSK001K1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SSK001K1 1.png",
+      "photos/watches/Seiko/SSK001k1 2.webp",
+      "photos/watches/Seiko/SSK001K1_3.jpg"
+    ]
+  },
+  {
+    "id": "seiko-field-watch-srpg31",
+    "name": "Seiko Field Watch SRPG31",
+    "brand": "Seiko",
+    "price": "$295",
+    "affiliateUrl": "",
+    "description": "Modern field watch with military inspiration.",
+    "longDescription": "The Seiko SRPG31 is a contemporary field watch built for durability and legibility. Its simple design and automatic movement make it perfect for everyday use.",
+    "specs": {
+      "caseSize": "39.4 mm",
+      "caseThickness": "13.2 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Nylon",
+      "crystal": "Hardlex",
+      "movement": "Automatic (4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "100 m",
+      "weight": "~75 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "field watch",
+      "automatic movement",
+      "high legibility"
+    ],
+    "image": "photos/watches/Seiko/SRPG31K1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SRPG31K1 1.png",
+      "photos/watches/Seiko/SRPG31K1 2.webp",
+      "photos/watches/Seiko/srpg31k1 3.webp"
+    ]
+  },
+  {
+    "id": "citizen-promaster-dive-bn0150-28e",
+    "name": "Citizen Promaster Dive BN0150-28E",
+    "brand": "Citizen",
+    "price": "$230",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/BN0150-28E 1.png",
+    "gallery": [
+      "photos/watches/Citizen/BN0150-28E 1.png",
+      "photos/watches/Citizen/BN0150-28E 2.webp"
+    ],
+    "reference": "BN0150-28E",
+    "description": "Iconic Promaster ISO dive watch with black dial.",
+    "longDescription": "The Citizen BN0150-28E is one of the most respected affordable dive watches available. ISO-certified for diving, it features a screw-down crown, strong lume, and a durable polyurethane strap. Eco-Drive technology ensures dependable solar-powered performance.",
+    "specs": {
+      "caseSize": "44 mm",
+      "caseThickness": "11.5 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Polyurethane",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz (Caliber E168)",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "200 m (ISO diver)",
+      "weight": "~94 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "ISO diver",
+      "screw-down crown",
+      "solar powered"
+    ]
+  },
+  {
+    "brand": "Citizen",
+    "price": "$180",
+    "affiliateUrl": "",
+    "id": "citizen-eco-drive-blue-angels",
+    "name": "Citizen Eco-Drive Blue Angels",
+    "image": "photos/watches/Citizen/citizen eco drive blue angels 1.png",
+    "gallery": [
+      "photos/watches/Citizen/citizen eco drive blue angels 1.png",
+      "photos/watches/Citizen/citizen eco drive blue angels 2 jpg.jpg"
+    ],
+    "description": "Limited edition chronograph inspired by the Blue Angels team.",
+    "longDescription": "The Citizen Eco-Drive Blue Angels watch celebrates the elite US Navy flight team with a bold blue and yellow design. Its chronograph, tachymeter, and solar-powered Eco-Drive movement make it stylish and functional for aviation enthusiasts.",
+    "specs": {
+      "caseSize": "44 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "200 m",
+      "weight": "~135 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "chronograph",
+      "aviation-inspired",
+      "solar powered"
+    ]
+  },
+  {
+    "id": "citizen-brycen-chronograph-ca0649-06x",
+    "name": "Citizen Brycen Chronograph CA0649-06X",
+    "brand": "Citizen",
+    "price": "$280",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/citizen brycen chronograph ca0649 06x 1.png",
+    "gallery": [
+      "photos/watches/Citizen/citizen brycen chronograph ca0649 06x 1.png",
+      "photos/watches/Citizen/citizen brycen chronograph ca0649 06x 2.png"
+    ],
+    "reference": "CA0649-06X",
+    "description": "Bold chronograph with military-inspired green dial.",
+    "longDescription": "The Citizen Brycen CA0649-06X offers a rugged sporty look with a deep green dial and chronograph functionality. Powered by Eco-Drive solar technology, it delivers precise timing without battery changes and is built for everyday durability.",
+    "specs": {
+      "caseSize": "44 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar chronograph (Caliber B612)",
+      "powerReserve": "~7 months (solar)",
+      "waterResistance": "100 m",
+      "weight": "~95 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "chronograph",
+      "solar powered",
+      "24-hour subdial"
+    ]
+  },
+  {
+    "id": "citizen-corso-eco-drive",
+    "name": "Citizen Corso Eco-Drive",
+    "brand": "Citizen",
+    "price": "$210",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/corso eco drive 1 .png",
+    "gallery": [
+      "photos/watches/Citizen/corso eco drive 1 .png",
+      "photos/watches/Citizen/corso eco drive 2.png"
+    ],
+    "reference": "BM7100-59E",
+    "description": "Elegant everyday watch with refined design.",
+    "longDescription": "The Citizen Corso Eco-Drive BM7100-59E is a versatile dress watch with a clean black dial and polished stainless steel bracelet. Slim and comfortable, it transitions seamlessly from office wear to formal occasions while being powered by light.",
+    "specs": {
+      "caseSize": "40 mm",
+      "caseThickness": "9 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz (Caliber E111)",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "100 m",
+      "weight": "~120 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "dress style",
+      "solar powered",
+      "date display"
+    ]
+  },
+  {
+    "id": "citizen-chandler-eco-drive",
+    "name": "Citizen Chandler Eco-Drive",
+    "brand": "Citizen",
+    "price": "$190",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/chandlier 1.png",
+    "gallery": [
+      "photos/watches/Citizen/chandlier 1.png",
+      "photos/watches/Citizen/chandlier 2.png"
+    ],
+    "reference": "BM8475-00F",
+    "description": "Rugged casual watch with field-inspired design.",
+    "longDescription": "The Citizen Chandler BM8475-00F combines military field styling with Eco-Drive solar power. Featuring a black dial, luminous markers, and a durable nylon strap, it is built for reliability and everyday toughness.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "10 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Nylon",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz (Caliber E101)",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "100 m",
+      "weight": "~85 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "field styling",
+      "solar powered",
+      "durable build"
+    ]
+  },
+  {
+    "id": "citizen-titanium-eco-drive",
+    "name": "Citizen Titanium Eco-Drive",
+    "brand": "Citizen",
+    "price": "$350",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/citizen titanium 1.png",
+    "gallery": [
+      "photos/watches/Citizen/citizen titanium 1.png",
+      "photos/watches/Citizen/citizen titanium 2.png"
+    ],
+    "reference": "BM7431-51L",
+    "description": "Lightweight titanium watch with solar technology.",
+    "longDescription": "The Citizen BM7431-51L is crafted from Super Titanium, offering exceptional lightness and durability. Its blue dial and sleek design make it suitable for both casual and formal wear, while Eco-Drive ensures maintenance-free operation.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "10 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Super Titanium",
+      "bandMaterial": "Super Titanium",
+      "crystal": "Sapphire",
+      "movement": "Eco-Drive solar quartz (Caliber E111)",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "100 m",
+      "weight": "~95 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "lightweight titanium",
+      "sapphire crystal",
+      "solar powered"
+    ]
+  },
+  {
+    "brand": "Citizen",
+    "price": "$240",
+    "affiliateUrl": "",
+    "id": "citizen-navihawk-a-t",
+    "name": "Citizen Navihawk A-T",
+    "image": "photos/watches/Citizen/citizen navihawk a t 1.png",
+    "gallery": [
+      "photos/watches/Citizen/citizen navihawk a t 1.png",
+      "photos/watches/Citizen/citizen navihawk a t 2.png"
+    ],
+    "description": "Atomic timekeeping pilot-style watch with multiple time zones.",
+    "longDescription": "The Citizen Navihawk A-T is a feature-packed aviation watch with atomic clock synchronization for ultimate accuracy. It has world time for 43 cities, a perpetual calendar, and a slide rule bezel, making it perfect for pilots or frequent travelers.",
+    "specs": {
+      "caseSize": "46 mm",
+      "caseThickness": "14 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "200 m",
+      "weight": "~150 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "atomic timekeeping",
+      "world time",
+      "pilot-style slide rule"
+    ]
+  },
+  {
+    "id": "citizen-classic-addysen-eco-drive",
+    "name": "Citizen Classic Addysen Eco-Drive",
+    "brand": "Citizen",
+    "price": "$200",
+    "affiliateUrl": "",
+    "image": "photos/watches/Citizen/AW1244-56E 1.png",
+    "gallery": [
+      "photos/watches/Citizen/AW1244-56E 1.png"
+    ],
+    "reference": "AW0050-82E",
+    "description": "Clean, minimalist dress watch with solar movement.",
+    "longDescription": "The Citizen Addysen AW0050-82E features a simple black dial, slim profile, and stainless steel bracelet. Designed for understated elegance, it runs on Eco-Drive technology, eliminating the need for battery replacements.",
+    "specs": {
+      "caseSize": "41 mm",
+      "caseThickness": "9 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Eco-Drive solar quartz (Caliber J800)",
+      "powerReserve": "~6 months (solar)",
+      "waterResistance": "50 m",
+      "weight": "~115 g",
+      "madeIn": "Japan movement"
+    },
+    "features": [
+      "minimalist design",
+      "solar powered",
+      "slim profile"
+    ]
+  },
+  {
+    "id": "orient-kamasu-ra-aa0004e19b",
+    "name": "Orient Kamasu RA-AA0004E19B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Kamasu RA-AA0004E19B.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Kamasu RA-AA0004E19B.png",
+      "photos/watches/Orient/Orient Kamasu RA-AA0004E19B 2.jpg",
+      "photos/watches/Orient/Orient Kamasu RA-AA0004E19B 3.jpg"
+    ],
+    "description": "Classic Orient Kamasu automatic dive watch with green dial.",
+    "longDescription": "The Orient Kamasu RA-AA0004E19B is a highly respected automatic diver featuring a rich green sunburst dial, sapphire crystal, and the in-house F6922 movement. With 200m water resistance and strong lume, it is built for both underwater performance and daily wear.",
+    "specs": {
+      "caseSize": "41.8 mm",
+      "caseThickness": "12.8 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Sapphire",
+      "movement": "Orient Caliber F6922 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "200 m",
+      "weight": "Approx. 170 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Sapphire crystal",
+      "200m diver",
+      "In-house automatic movement"
+    ]
+  },
+  {
+    "id": "orient-kamasu-ra-aa0003r19b",
+    "name": "Orient Kamasu RA-AA0003R19B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Kamasu RA-AA0003R19B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Kamasu RA-AA0003R19B 1.png",
+      "photos/watches/Orient/Orient Kamasu RA-AA0003R19B 2.jpg",
+      "photos/watches/Orient/Orient Kamasu RA-AA0003R19B 3.png"
+    ],
+    "description": "Orient Kamasu automatic diver with bold red dial.",
+    "longDescription": "The RA-AA0003R19B offers the same proven Kamasu platform but with a striking red dial. Featuring sapphire crystal and the F6922 automatic movement, it combines strong dive capability with distinctive style.",
+    "specs": {
+      "caseSize": "41.8 mm",
+      "caseThickness": "12.8 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Sapphire",
+      "movement": "Orient Caliber F6922 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "200 m",
+      "weight": "Approx. 170 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Sapphire crystal",
+      "200m water resistance",
+      "Day-date display"
+    ]
+  },
+  {
+    "id": "orient-mako-ii-faa02001b9",
+    "name": "Orient Mako II FAA02001B9",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Mako II FAA02001B9 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Mako II FAA02001B9 1.png",
+      "photos/watches/Orient/Orient Mako II FAA02001B9 2.jpg",
+      "photos/watches/Orient/Orient Mako II FAA02001B9 3.jpg"
+    ],
+    "description": "Reliable Orient Mako II automatic dive watch with black dial.",
+    "longDescription": "The Orient Mako II FAA02001B9 is a durable automatic dive watch powered by the in-house F6922 movement. With 200m water resistance and classic dive styling, it offers exceptional value.",
+    "specs": {
+      "caseSize": "41.5 mm",
+      "caseThickness": "13 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Orient Caliber F6922 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "200 m",
+      "weight": "Approx. 175 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "200m diver",
+      "Automatic movement",
+      "Unidirectional bezel"
+    ]
+  },
+  {
+    "id": "orient-mako-iii-ra-aa0008b19b",
+    "name": "Orient Mako III RA-AA0008B19B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Mako III RA-AA0008B19B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Mako III RA-AA0008B19B 1.png",
+      "photos/watches/Orient/Orient Mako III RA-AA0008B19B 2.png",
+      "photos/watches/Orient/Orient Mako III RA-AA0008B19B 3.png"
+    ],
+    "description": "Modernized Orient Mako III with improved finishing.",
+    "longDescription": "The Mako III builds upon the Mako line with upgraded finishing and reliable in-house automatic movement. It maintains 200m water resistance and practical dive features.",
+    "specs": {
+      "caseSize": "41.8 mm",
+      "caseThickness": "12.8 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Orient Caliber F6922 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "200 m",
+      "weight": "Approx. 170 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Screw-down crown",
+      "200m diver",
+      "Day-date function"
+    ]
+  },
+  {
+    "id": "orient-bambino-ra-ac0m04y10b",
+    "name": "Orient Bambino RA-AC0M04Y10B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Bambino RA-AC0M04Y10B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Bambino RA-AC0M04Y10B 1.png",
+      "photos/watches/Orient/Orient Bambino RA-AC0M04Y10B 2.jpg",
+      "photos/watches/Orient/Orient Bambino RA-AC0M04Y10B 3.png"
+    ],
+    "description": "Elegant Orient Bambino dress watch with champagne dial.",
+    "longDescription": "The Orient Bambino RA-AC0M04Y10B features a domed crystal, minimalist dial, and automatic in-house movement. It is ideal for formal and business occasions.",
+    "specs": {
+      "caseSize": "40.5 mm",
+      "caseThickness": "12.3 mm",
+      "lugWidth": "21 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Domed mineral",
+      "movement": "Orient Caliber F6724 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "30 m",
+      "weight": "Approx. 70 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Classic dress style",
+      "Domed crystal",
+      "Automatic movement"
+    ]
+  },
+  {
+    "id": "orient-bambino-ra-ac0f01b10b",
+    "name": "Orient Bambino RA-AC0F01B10B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Bambino RA-AC0F01B10B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Bambino RA-AC0F01B10B 1.png",
+      "photos/watches/Orient/Orient Bambino RA-AC0F01B10B 2.png",
+      "photos/watches/Orient/Orient Bambino RA-AC0F01B10B 3.jpg"
+    ],
+    "description": "Classic black dial Orient Bambino automatic dress watch.",
+    "longDescription": "This Bambino model features a clean black dial and domed crystal, powered by the reliable F6724 automatic movement, offering timeless elegance.",
+    "specs": {
+      "caseSize": "40.5 mm",
+      "caseThickness": "12.3 mm",
+      "lugWidth": "21 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Domed mineral",
+      "movement": "Orient Caliber F6724 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "30 m",
+      "weight": "Approx. 70 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Minimalist design",
+      "Domed crystal",
+      "Automatic caliber"
+    ]
+  },
+  {
+    "id": "orient-ray-ii-faa02005d9",
+    "name": "Orient Ray II FAA02005D9",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Ray II FAA02005D9 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Ray II FAA02005D9 1.png",
+      "photos/watches/Orient/Orient Ray II FAA02005D9 2.png",
+      "photos/watches/Orient/Orient Ray II FAA02005D9 4.jpg",
+      "photos/watches/Orient/Orient Ray II FAA02005D9 5.jpg"
+    ],
+    "description": "Orient Ray II automatic dive watch with blue dial.",
+    "longDescription": "The Ray II FAA02005D9 is a solid 200m dive watch with strong lume and in-house automatic movement, offering dependable performance at an accessible price.",
+    "specs": {
+      "caseSize": "41.5 mm",
+      "caseThickness": "13 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Orient Caliber F6922 Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "200 m",
+      "weight": "Approx. 175 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "200m diver",
+      "Day-date",
+      "Automatic movement"
+    ]
+  },
+  {
+    "id": "orient-tristar-ra-ab0f09l19b",
+    "name": "Orient TriStar RA-AB0F09L19B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient TriStar RA-AB0F09L19B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient TriStar RA-AB0F09L19B 1.png",
+      "photos/watches/Orient/Orient TriStar RA-AB0F09L19B 2.png"
+    ],
+    "description": "Affordable Orient TriStar automatic with classic styling.",
+    "longDescription": "The TriStar series offers dependable automatic performance with traditional styling and day-date display, ideal for everyday wear.",
+    "specs": {
+      "caseSize": "38 mm",
+      "caseThickness": "11 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Orient Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "50 m",
+      "weight": "Approx. 120 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Day-date",
+      "Classic design",
+      "Automatic movement"
+    ]
+  },
+  {
+    "id": "orient-star-re-au0004b00b",
+    "name": "Orient Star RE-AU0004B00B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Star RE-AU0004B00B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Star RE-AU0004B00B 1.png",
+      "photos/watches/Orient/Orient Star RE-AU0004B00B 2.jpg",
+      "photos/watches/Orient/Orient Star RE-AU0004B00B 3.jpg"
+    ],
+    "description": "Premium Orient Star automatic with power reserve indicator.",
+    "longDescription": "The Orient Star RE-AU0004B00B features superior finishing, a power reserve display, and in-house automatic movement, representing a higher tier of Orient craftsmanship.",
+    "specs": {
+      "caseSize": "41 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "21 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Sapphire",
+      "movement": "Orient Caliber F6N43 Automatic",
+      "powerReserve": "Approx. 50 hours",
+      "waterResistance": "100 m",
+      "weight": "Approx. 160 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Power reserve indicator",
+      "Sapphire crystal",
+      "Premium finishing"
+    ]
+  },
+  {
+    "id": "orient-defender-ra-ak0401l10b",
+    "name": "Orient Defender RA-AK0401L10B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Defender RA-AK0401L10B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Defender RA-AK0401L10B 1.png",
+      "photos/watches/Orient/Orient Defender RA-AK0401L10B 2.png",
+      "photos/watches/Orient/Orient Defender RA-AK0401L10B 3.jpg"
+    ],
+    "description": "Rugged Orient Defender field-style automatic watch.",
+    "longDescription": "The Defender RA-AK0401L10B combines military-inspired design with day-date display and automatic movement, making it a practical everyday tool watch.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Nylon",
+      "crystal": "Mineral",
+      "movement": "Orient Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "100 m",
+      "weight": "Approx. 150 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Field watch style",
+      "Day-date display",
+      "100m water resistance"
+    ]
+  },
+  {
+    "id": "orient-open-heart-ra-ag0003s10b",
+    "name": "Orient Open Heart RA-AG0003S10B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Open Heart RA-AG0003S10B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Open Heart RA-AG0003S10B 1.png",
+      "photos/watches/Orient/Orient Open Heart RA-AG0003S10B 2.png",
+      "photos/watches/Orient/Orient Open Heart RA-AG0003S10B 3.jpg"
+    ],
+    "description": "Orient open-heart automatic with elegant dial design.",
+    "longDescription": "This model showcases the automatic movement through an open-heart dial, blending mechanical appeal with refined aesthetics.",
+    "specs": {
+      "caseSize": "40.5 mm",
+      "caseThickness": "11 mm",
+      "lugWidth": "21 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Mineral",
+      "movement": "Orient Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "50 m",
+      "weight": "Approx. 75 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Open-heart dial",
+      "Elegant styling",
+      "Automatic movement"
+    ]
+  },
+  {
+    "id": "orient-neo-70s-wv0041tx",
+    "name": "Orient Neo 70s WV0041TX",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Neo 70s WV0041TX 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Neo 70s WV0041TX 1.png",
+      "photos/watches/Orient/Orient Neo 70s WV0041TX 2.jpg",
+      "photos/watches/Orient/Orient Neo 70s WV0041TX 3.jpg"
+    ],
+    "description": "Retro-inspired Orient Neo 70’s chronograph.",
+    "longDescription": "The Neo 70’s WV0041TX features vintage design cues with chronograph functionality, offering a sporty yet nostalgic aesthetic.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "12 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Quartz chronograph",
+      "powerReserve": "Battery powered",
+      "waterResistance": "100 m",
+      "weight": "Approx. 165 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Chronograph",
+      "Retro styling",
+      "100m water resistance"
+    ]
+  },
+  {
+    "id": "orient-sun-and-moon-ra-ak0008s10b",
+    "name": "Orient Sun and Moon RA-AK0008S10B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Sun and Moon RA-AK0008S10B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Sun and Moon RA-AK0008S10B 1.png",
+      "photos/watches/Orient/Orient Sun and Moon RA-AK0008S10B 2.png",
+      "photos/watches/Orient/Orient Sun and Moon RA-AK0008S10B 3.png"
+    ],
+    "description": "Elegant Orient Sun and Moon complication watch.",
+    "longDescription": "Featuring a sun and moon indicator, this model combines classic dress styling with useful calendar functions and automatic movement.",
+    "specs": {
+      "caseSize": "42 mm",
+      "caseThickness": "13 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Mineral",
+      "movement": "Orient Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "50 m",
+      "weight": "Approx. 85 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Sun & moon display",
+      "Day-date",
+      "Automatic movement"
+    ]
+  },
+  {
+    "id": "orient-contemporary-ra-sp0002s10b",
+    "name": "Orient Contemporary RA-SP0002S10B",
+    "brand": "Orient",
+    "price": "",
+    "affiliateUrl": "",
+    "image": "photos/watches/Orient/Orient Contemporary RA-SP0002S10B 1.png",
+    "gallery": [
+      "photos/watches/Orient/Orient Contemporary RA-SP0002S10B 1.png",
+      "photos/watches/Orient/Orient Contemporary RA-SP0002S10B 2.png",
+      "photos/watches/Orient/Orient Contemporary RA-SP0002S10B 3.jpg"
+    ],
+    "description": "Modern Orient contemporary automatic with clean dial.",
+    "longDescription": "A minimalist automatic watch featuring clean lines, balanced proportions, and dependable in-house mechanical movement.",
+    "specs": {
+      "caseSize": "39 mm",
+      "caseThickness": "11 mm",
+      "lugWidth": "20 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Stainless steel",
+      "crystal": "Mineral",
+      "movement": "Orient Automatic",
+      "powerReserve": "Approx. 40 hours",
+      "waterResistance": "50 m",
+      "weight": "Approx. 130 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "Minimalist dial",
+      "Automatic movement",
+      "Everyday wear"
+    ]
+  },
+  {
+    "id": "seiko-ssa459j1",
+    "reference": "SSA459J1",
+    "name": "Seiko SSA459J1",
+    "brand": "Seiko",
+    "price": "",
+    "image": "photos/watches/Seiko/SSA459J1 1.png",
+    "gallery": [
+      "photos/watches/Seiko/SSA459J1 1.png",
+      "photos/watches/Seiko/SEIKO SSA459 2.jpg"
+    ],
+    "description": "Sophisticated automatic dress watch with timeless design.",
+    "longDescription": "The Seiko SSA459J1 is a refined automatic timepiece that blends elegant styling with dependable performance. Its clean dial, classic indices, and day-date complication make it ideal for both formal wear and everyday office use. Powered by Seiko's reliable automatic movement, it offers lasting durability and traditional mechanical watch appeal.",
+    "specs": {
+      "caseSize": "41 mm",
+      "caseThickness": "13 mm",
+      "lugWidth": "22 mm",
+      "caseMaterial": "Stainless steel",
+      "bandMaterial": "Leather",
+      "crystal": "Hardlex",
+      "movement": "Automatic (Seiko Caliber 4R36)",
+      "powerReserve": "~41 hours",
+      "waterResistance": "50 m",
+      "weight": "~85 g",
+      "madeIn": "Japan"
+    },
+    "features": [
+      "classic dress style",
+      "day-date function",
+      "automatic movement"
+    ],
+    "affiliateUrl": ""
+  }
+]

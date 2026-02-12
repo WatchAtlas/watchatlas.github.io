@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Watch Atlas Blogs</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="photos/icons/navbar.png">
+</head>
+<body>
+<header class="navbar">
+  <div class="logo"><img src="photos/icons/navbar.png" alt="Watch Atlas"></div>
+
+  <nav>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="blog.html">Blogs</a></li>
+      <li><a href="casio.html">Casio</a></li>
+      <li><a href="seiko.html">Seiko</a></li>
+      <li><a href="citizen.html">Citizen</a></li>
+      <li><a href="orient.html">Orient</a></li>
+      <li class="nav-search">
+        <input id="search-input" type="search" placeholder="Search watches">
+      </li>
+    </ul>
+  </nav>
+
+  <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+</header>
+
+<main class="blog-page">
+  <h1 class="headerpagemid reveal-on-scroll" style="text-align:left;color:#fff;">Watch Articles</h1>
+  <section class="blog-page-grid reveal-on-scroll" data-delay="80" id="blog-page-grid">
+    <article class="blog-slide is-loading">
+      <p>Loading watch articles...</p>
+    </article>
+  </section>
+  <div class="blog-page-actions reveal-on-scroll" data-delay="120">
+    <button id="load-more-blogs" class="blog-more-button" type="button">Load More</button>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-meta">
+    <p>Products sold on Amazon.</p>
+    <div class="footer-legal">
+      <a href="policy.html#affiliate-disclosure">Affiliate Disclosure</a>
+      <a href="policy.html#privacy-policy">Privacy Policy</a>
+      <a href="policy.html">Policy</a>
+    </div>
+  </div>
+  <div class="footer-socials">
+    <a href="#" aria-label="Instagram"><img src="photos/icons/instagram-white-icon.png" alt="Instagram"></a>
+    <a href="#" aria-label="TikTok"><img src="photos/icons/tiktok-simplified-white-icon.png" alt="TikTok"></a>
+  </div>
+</footer>
+
+<script src="blog.js"></script>
+</body>
+</html>
