@@ -1305,6 +1305,10 @@ body {
 @media screen and (max-width: 768px) {
 
   /* Navbar menu toggle */
+  .navbar {
+    border-bottom: none;
+  }
+
   .navbar nav ul {
     position: fixed;
     top: 78px;
@@ -1350,16 +1354,10 @@ body {
     order: -1; /* make slider appear first */
   }
 
-  .slider .list .item img {
-    object-fit: contain;
-    height: 100%;
-    width: auto;
-  }
+  .slider .list .item img {`r`n    object-fit: contain;`r`n    object-position: center;`r`n    height: 100%;`r`n    width: 100%;`r`n  }
 
   .slider .list .item .content {
-    width: 90%;
-    left: 5%;
-    top: 15%;
+    display: none;
   }
 
   .slider .list .item .content h2 {
@@ -1509,6 +1507,7 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 

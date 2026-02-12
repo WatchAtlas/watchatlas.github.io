@@ -17,6 +17,26 @@ function nextSlide() {
   currentIndex++;
   if (currentIndex >= totalItems) currentIndex = 0;
   showSlide(currentIndex);
+
+setupSliderItemLinks();
+
+function setupSliderItemLinks() {
+  const sliderItems = document.querySelectorAll('.slider .list .item');
+  sliderItems.forEach((item) => {
+    const brandLink = item.querySelector('.slide-button');
+    if (!brandLink) return;
+    const href = brandLink.getAttribute('href');
+    if (!href) return;
+
+    item.setAttribute('data-href', href);
+    item.style.cursor = 'pointer';
+
+    item.addEventListener('click', (event) => {
+      if (event.target.closest('a, button, .arrows')) return;
+      window.location.href = href;
+    });
+  });
+}
 }
 
 function prevSlide() {
@@ -409,7 +429,7 @@ function renderBudgetCards(container, watches) {
       const id = watch.id || slugify(watch.name || '');
       const brandLabel = watch.brand || 'Brand';
       return `
-        <a class="budget-card" href="watches.html?id=${encodeURIComponent(id)}" style="background-image: url('${toAssetUrl(watch.image)}')">
+        <a class="budget-card" data-watch-id="${id}" href="watches.html?id=${encodeURIComponent(id)}" style="background-image: url('${toAssetUrl(watch.image)}')">
           <div class="budget-card-content">
             <h3 class="budget-watch-name">${brandLabel}</h3>
           </div>
