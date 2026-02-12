@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Prompt:ital,wght@1,300&family=SN+Pro:ital,wght@0,200..900;1,200..900&family=Vazirmatn:wght@100..900&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Prompt:ital,wght@1,300&family=SN+Pro:ital,wght@0,200..900;1,200..900&family=Vazirmatn:wght@100..900&display=swap');
 
 /* ===== Reset & Body ===== */
 * {
@@ -444,6 +444,7 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.1);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background-color: #0a0a0a;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -609,6 +610,7 @@ body {
   min-height: 300px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background-color: #0a0a0a;
 }
 
@@ -748,6 +750,7 @@ body {
   aspect-ratio: 16 / 10;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background-color: #111;
 }
 
@@ -790,6 +793,7 @@ body {
   cursor: pointer;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background-repeat: no-repeat;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   text-decoration: none;
@@ -1106,6 +1110,7 @@ body {
   background-color: #0a0a0a;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .similar-info {
@@ -1498,3 +1503,4 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
