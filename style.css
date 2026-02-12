@@ -1301,6 +1301,31 @@ body {
   margin-bottom: 0;
 }
 
+
+@media screen and (min-width: 769px) and (max-width: 1100px) {
+  .slider .list .item .content {
+    left: 7%;
+    top: 18%;
+    width: 380px;
+    max-width: 46%;
+  }
+
+  .slider .list .item .content p:first-child {
+    letter-spacing: 6px;
+    font-size: 0.92rem;
+  }
+
+  .slider .list .item .content h2 {
+    font-size: 76px;
+    line-height: 1;
+  }
+
+  .slide-button {
+    padding: 10px 22px;
+    font-size: 0.95rem;
+  }
+}
+
 /* ===== Responsive ===== */
 @media screen and (max-width: 768px) {
 
