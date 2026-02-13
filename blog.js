@@ -23,8 +23,7 @@ function setupBlogPage() {
 
   const feeds = [
     { name: 'Hodinkee', url: 'https://www.hodinkee.com/articles.rss' },
-    { name: 'Fratello', url: 'https://www.fratellowatches.com/feed/' },
-    { name: 'Worn & Wound', url: 'https://wornandwound.com/feed/' }
+    { name: 'Fratello', url: 'https://www.fratellowatches.com/feed/' }
   ];
 
   Promise.all(feeds.map((feed) => fetchRssFeed(feed)))
