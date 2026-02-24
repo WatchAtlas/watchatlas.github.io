@@ -1,4 +1,4 @@
-/* ===== Reset & Body ===== */
+﻿/* ===== Reset & Body ===== */
 * {
   margin: 0;
   padding: 0;
@@ -459,4 +459,8 @@ body {
   .headerpagemid {
     font-size: 1.2rem;
   }
+}
+
+.footer-socials img[src*="facebook.png"] {
+  filter: brightness(0) invert(1);
 }

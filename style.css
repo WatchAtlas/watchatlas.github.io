@@ -1543,3 +1543,7 @@ body {
 
 
 
+
+.footer-socials img[src*="facebook.png"] {
+  filter: brightness(0) invert(1);
+}
