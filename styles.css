@@ -464,3 +464,12 @@ body {
 .footer-socials img[src*="facebook.png"] {
   filter: brightness(0) invert(1);
 }
+
+.footer-socials a img {
+  filter: brightness(0) invert(1) !important;
+  transition: filter 0.25s ease;
+}
+
+.footer-socials a:hover img {
+  filter: brightness(0) invert(0) !important;
+}
